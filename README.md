@@ -25,6 +25,7 @@ A curated list of resources related to IPTV.
   - [Google Chrome](#google-chrome)
   - [Docker](#docker)
 - 📡 [Providers](#providers)
+- 
 - 🗄️ [Channel Datasets](#channel-datasets)
 - 🗓 [EPG Sources](#epg-sources)
 - 👨🏻‍💻 [Programming](#programming)
@@ -301,7 +302,7 @@ Applications with support of IPTV streams.
 - [akshaynikhare/FireVisionIPTVServer](https://github.com/akshaynikhare/FireVisionIPTVServer) - Self-hosted IPTV channel management server with admin panel, EPG integration, device pairing, and multi-user support.
 
 ## Providers
-
+* [Aussie IPTV](https://aussieiptv.com) - Your ultimate guide for IPTV services and tools in Australia.
 - [WatchIPTV](https://watchiptv.xyz) - Watch IPTV-org streams directly from your browser.
 - [Jackal](http://jackal.surge.sh) - Watch live tv from your browser with the help of Next application.
 - [IPTV Player](https://iptv-web.app/) - Open-source Flutter app that allows you to watch publicly accessible streams from within your browser.
